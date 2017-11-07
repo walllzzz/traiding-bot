@@ -1,0 +1,15 @@
+org\knowm\xchange\examples\kraken\account\KrakenAccountDemo.class
+org\knowm\xchange\examples\kraken\trade\KrakenMarketOrderDemo.class
+org\knowm\xchange\examples\kraken\trade\KrakenCancelOrderDemo.class
+org\knowm\xchange\examples\kraken\trade\KrakenOpenOrdersDemo.class
+org\knowm\xchange\examples\kraken\KrakenExampleUtils.class
+org\knowm\xchange\examples\kraken\marketdata\KrakenDepthDemo.class
+org\knowm\xchange\examples\kraken\marketdata\KrakenExchangeSymbolsDemo.class
+org\knowm\xchange\examples\kraken\trade\KrakenTradeRawSpecificDemo.class
+trading\Run.class
+org\knowm\xchange\examples\kraken\account\KrakenAccountRawSpecificDemo.class
+org\knowm\xchange\examples\kraken\trade\KrakenTradeHistoryDemo.class
+org\knowm\xchange\examples\kraken\marketdata\KrakenMarketDataRawSpecificDemo.class
+org\knowm\xchange\examples\kraken\marketdata\KrakenTickerDemo.class
+org\knowm\xchange\examples\kraken\marketdata\KrakenTradesDemo.class
+org\knowm\xchange\examples\kraken\trade\KrakenLimitOrderDemo.class
